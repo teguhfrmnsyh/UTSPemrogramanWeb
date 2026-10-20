@@ -29,13 +29,13 @@ Bersuara helps people buy concert tickets without going directly to the purchase
 
 A buyer registers through the registration page. A buyer can log in, view concerts, buy tickets, make a simulated payment, and open the order history.
 
-`[NOT FILLED: additional buyer description]`
+Buyers are typically music enthusiasts and concertgoers in the Greater Jakarta area (aged 17–35) who regularly use smartphones or laptops. They prioritize quick access to concert schedules, straightforward ticket quantity selection, transparent quota availability, and the convenience of paperless digital tickets accessible anytime.
 
 ### Admin
 
 An admin account is created directly in the database through phpMyAdmin with an admin role column. An admin does not register through the registration page. An admin can log in through the same login page as a buyer and manage concert data.
 
-`[NOT FILLED: additional admin description]`
+Admins are internal staff or managers of the Bersuara platform responsible for maintaining the event catalog. They have fundamental technical understanding to operate data through the web UI, ensure schedule and quota accuracy, and protect the integrity of finalized order histories.
 
 ## 5. Scope
 
@@ -280,7 +280,6 @@ Two people collaborate on all parts without a fixed division. The database struc
 
 ## 17. Open questions
 
-1. `[NOT FILLED: additional buyer description beyond the buyer role]`
-2. `[NOT FILLED: additional admin description beyond the admin role]`
+There are no remaining open questions. All functional, non-functional requirements, and user persona descriptions have been agreed upon and completed.
 
-Remaining `[NOT FILLED]` markers: **2**.
+Remaining `[NOT FILLED]` markers: **0**.

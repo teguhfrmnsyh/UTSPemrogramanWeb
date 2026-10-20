@@ -29,13 +29,13 @@ Bersuara memudahkan orang membeli tiket konser tanpa datang langsung ke tempat p
 
 Pembeli mendaftar sendiri melalui halaman registrasi. Pembeli dapat login, melihat konser, membeli tiket, melakukan pembayaran simulasi, dan membuka riwayat pesanan.
 
-`[BELUM DIISI: deskripsi tambahan pembeli]`
+Pembeli umumnya adalah penikmat musik dan penggemar konser di wilayah Jabodetabek (rentang usia 17–35 tahun) yang terbiasa menggunakan ponsel pintar maupun laptop. Pembeli mengutamakan kecepatan akses jadwal konser, kemudahan pemilihan jumlah tiket, transparansi informasi ketersediaan kuota, serta kepraktisan tiket digital yang dapat diakses sewaktu-waktu tanpa memerlukan cetak fisik.
 
 ### Admin
 
 Akun admin dibuat langsung di database melalui phpMyAdmin dengan kolom peran admin. Admin tidak mendaftar melalui halaman registrasi. Admin dapat login melalui halaman login yang sama dengan pembeli dan mengelola data konser.
 
-`[BELUM DIISI: deskripsi tambahan admin]`
+Admin adalah staf atau pengelola internal platform Bersuara yang bertugas memelihara katalog acara secara berkala. Admin memiliki pemahaman teknis dasar untuk mengelola data melalui antarmuka web, memastikan akurasi data jadwal dan kuota tiket konser, serta menjaga integritas data riwayat pesanan yang telah lunas.
 
 ## 5. Ruang lingkup
 
@@ -279,8 +279,7 @@ Tenggat: Minggu, 25 Oktober 2026.
 Dua orang berkolaborasi melengkapi semua bagian tanpa pembagian tetap. Struktur database disepakati sebelum kode ditulis. Pengerjaan memakai Git atau satu folder bersama yang rapi. Deliverable terdiri dari kode, database beserta datanya, dan laporan. Isi laporan berada di luar PRD.
 
 ## 17. Pertanyaan terbuka
+ 
+Tidak ada pertanyaan terbuka yang tersisa. Semua kebutuhan fungsional, non-fungsional, dan deskripsi persona pengguna telah disepakati dan diisi secara lengkap.
 
-1. `[BELUM DIISI: deskripsi tambahan pembeli selain peran sebagai pembeli]`
-2. `[BELUM DIISI: deskripsi tambahan admin selain peran sebagai admin]`
-
-Jumlah penanda `[BELUM DIISI]` yang tersisa: **2**.
+Jumlah penanda `[BELUM DIISI]` yang tersisa: **0**.
