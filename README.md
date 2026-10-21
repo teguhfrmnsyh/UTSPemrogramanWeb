@@ -2,7 +2,7 @@
 
 Repository ini merupakan proyek **Ujian Tengah Semester (UTS) mata kuliah Pemrograman Web** oleh mahasiswa Horizon University Indonesia, Faculty of Information and Technology.
 
-## 👥 Identitas Kelompok
+## Identitas Kelompok
 
 **Anggota 1**
 - **Nama:** Muhammad Fauzan Putra
@@ -12,13 +12,13 @@ Repository ini merupakan proyek **Ujian Tengah Semester (UTS) mata kuliah Pemrog
 - **Nama:** Teguh Firmansyah S.P
 - **NIM:** 4112755201250068
 
-## 📌 Deskripsi Proyek
+## Deskripsi Proyek
 
 **Bersuara** adalah website pemesanan tiket konser untuk wilayah Jabodetabek. Website ini dirancang untuk memudahkan pengguna menemukan informasi konser, membeli tiket, melakukan pembayaran simulasi, dan mengakses tiket digital melalui satu platform.
 
 Proyek ini dibuat untuk memenuhi tugas Ujian Tengah Semester mata kuliah Pemrograman Web. Seluruh proses pembayaran hanya berupa simulasi dan tidak melibatkan transaksi uang sungguhan.
 
-## 🎯 Tujuan
+## Tujuan
 
 - Menyediakan platform informasi dan pemesanan tiket konser.
 - Memudahkan pengguna mencari dan melihat detail konser.
@@ -26,9 +26,9 @@ Proyek ini dibuat untuk memenuhi tugas Ujian Tengah Semester mata kuliah Pemrogr
 - Menyediakan tiket digital dan riwayat pesanan.
 - Memungkinkan admin mengelola data konser.
 
-## ✨ Fitur Utama
+## Fitur Utama
 
-### 👤 Pembeli
+### Pembeli
 - Registrasi, login, dan logout.
 - Melihat daftar dan detail konser.
 - Mencari konser berdasarkan nama artis.
@@ -38,7 +38,7 @@ Proyek ini dibuat untuk memenuhi tugas Ujian Tengah Semester mata kuliah Pemrogr
 - Mengakses tiket digital setelah pembayaran lunas.
 - Melihat riwayat pesanan.
 
-### 🛠️ Admin
+### Admin
 - Login melalui halaman login yang sama dengan pembeli.
 - Mengakses dashboard admin berdasarkan peran akun.
 - Melihat daftar konser.
@@ -47,7 +47,7 @@ Proyek ini dibuat untuk memenuhi tugas Ujian Tengah Semester mata kuliah Pemrogr
 - Menghapus konser sesuai ketentuan sistem.
 - Melihat daftar pesanan jika fitur tambahan berhasil diimplementasikan.
 
-## 💻 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - **HTML** — struktur halaman website.
 - **CSS** — desain dan tata letak website.
@@ -58,7 +58,7 @@ Proyek ini dibuat untuk memenuhi tugas Ujian Tengah Semester mata kuliah Pemrogr
 - **Laragon** — lingkungan pengembangan lokal.
 - **Visual Studio Code** — editor kode.
 
-## ⚙️ Instalasi dan Menjalankan Proyek
+## Instalasi dan Menjalankan Proyek
 
 ### 1. Persiapan
 
@@ -110,7 +110,7 @@ http://localhost/UTSPemrogramanWeb/
 
 Pastikan alamat dan struktur folder telah disesuaikan dengan proyek.
 
-## 🔐 Ketentuan Sistem
+## Ketentuan Sistem
 
 - Registrasi hanya tersedia untuk akun pembeli.
 - Akun admin dibuat secara langsung melalui database.
@@ -122,7 +122,7 @@ Pastikan alamat dan struktur folder telah disesuaikan dengan proyek.
 - Konser yang telah selesai tidak dapat dibeli.
 - Tiket yang telah lunas dapat diakses melalui tiket digital dan riwayat pesanan.
 
-## 🧪 Pengujian
+## Pengujian
 
 Pengujian dilakukan untuk memastikan fitur berjalan sesuai kebutuhan, meliputi:
 
@@ -136,7 +136,7 @@ Pengujian dilakukan untuk memastikan fitur berjalan sesuai kebutuhan, meliputi:
 - Responsivitas tampilan pada perangkat HP, tablet, dan laptop.
 - Keamanan dasar aplikasi dan koneksi database.
 
-## 📚 Informasi Akademik
+## Informasi Akademik
 
 | Informasi | Keterangan |
 |---|---|
@@ -147,7 +147,7 @@ Pengujian dilakukan untuk memastikan fitur berjalan sesuai kebutuhan, meliputi:
 | Nama Proyek | Bersuara |
 | Repository | UTSPemrogramanWeb |
 
-## 📄 Catatan
+## Catatan
 
 Proyek ini dibuat untuk keperluan akademik dan pembelajaran. Website bukan platform penjualan tiket komersial dan tidak memproses pembayaran sungguhan.
 
